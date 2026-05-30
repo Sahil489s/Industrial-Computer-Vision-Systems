@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Industrial Computer Vision Systems
 
 This repository contains 3 production-style industrial computer vision systems built using YOLO, OpenCV, and PyTorch. The projects focus on real-time perception, tracking, detection, and safety intelligence for autonomous systems, crowd monitoring, and industrial hazard detection.
@@ -86,3 +87,7 @@ To build industrial-grade computer vision systems that replicate real-world AI p
 ## Note
 
 This repository is intended for educational and research purposes only
+=======
+# Industrial-Computer-Vision-Systems
+Industrial Computer Vision Systems featuring three production-style AI pipelines: ADAS Perception, Smart Crowd Panic Detection, and Fire &amp; Smoke Detection. Built with YOLO, OpenCV, and PyTorch for real-time detection, tracking, risk analysis, and safety intelligence in autonomous driving, surveillance, and industrial monitoring applications.
+>>>>>>> a72e64a9fda709f29352e739d5f043b13fee001e
